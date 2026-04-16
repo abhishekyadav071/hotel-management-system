@@ -1,22 +1,64 @@
 # Hotel Management System
 
-A complete Hotel Management System website developed using PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
+A full-stack **Hotel Management System** built using **MERN Stack**.
+This project helps users browse rooms, check room types, provide feedback, and contact the hotel management.
 
 ## Features
-- Room booking system
-- Contact form
-- Customer reviews
-- Room pricing section
-- Responsive website
-- Indian hotel theme design
 
-## Tech Stack
-- PHP
-- MySQL
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+* Home page
+* About section
+* Our services
+* Room types
+* Rooms booking section
+* Feedback form
+* Contact page
+* Team section
 
-## Developed By
-Abhishek Yadav
+## Languages & Technologies Used
+
+* **HTML5** – structure of web pages
+* **CSS3** – styling and layout
+* **JavaScript (ES6)** – frontend and backend logic
+* **React.js** – frontend UI development
+* **Node.js** – backend runtime
+* **Express.js** – server-side framework
+* **MongoDB** – database
+* **Bootstrap** – responsive design and UI components
+
+## Screenshots
+
+### Home Page
+
+![Home](./home.png)
+
+### About Page
+
+![About](./About.png)
+
+### Our Services
+
+![Services](./Our%20Services%20.png)
+
+### Room Types
+
+![Room Types](./Room%20types%20.png)
+
+### Rooms
+
+![Rooms](./rooms.png)
+
+### Feedback
+
+![Feedback](./Feedback.png)
+
+### My Team
+
+![My Team](./My%20Team.png)
+
+### Contact
+
+![Contact](./contact.png)
+
+## Author
+
+**Abhishek Yadav**
